@@ -1,0 +1,77 @@
+*{
+  margin-top: 12px;
+}
+.left{
+  margin-left: 750px;
+  margin-top: -1390px;
+}
+
+.right{
+  margin-top: 50px;
+  margin-left: 70px;
+}
+
+/* .name h6{
+ font-size: 15px;
+ font-weight: bolder;
+}
+
+.left pre{
+  /* font-weight: bolder; */
+  /* font-size: 16px;
+  font-family: a;
+} */ 
+
+/* use github pages */
+
+.body{
+  font-family: 'Segoe UI', Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 12px;
+  max-width: 960px;
+  margin: auto;
+}
+
+u{
+  color: brown;
+}
+
+header{
+  text-align: center;
+  margin: auto 2em;
+}
+section{
+  margin: auto 1em 4em 2em;
+}
+a{
+  color: rgb(18, 18, 66);
+  text-decoration: none;
+}
+a:hover{
+  cursor: pointer;
+  color: rgb(108, 108, 175);
+}
+p{
+  padding-left: 20px;
+}
+p,li,pre{
+  padding-top: 20px;
+  margin: .2em auto;
+  color: rgb(99, 44, 151);
+}
+
+hr{
+  border: none;
+  
+  background-color: rgb(151, 106, 106);
+  height: 1px;
+}
+
+h4{
+  font-weight: 100;
+  margin-bottom: 0;
+}
+
+h6{
+  font-weight: 450;
+  color: rgb(46, 75, 136);
+}
